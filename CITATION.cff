@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software in your work, please cite it using the following metadata."
+title: "Fourier Accelerated Hybrid Monte Carlo for 2D Scalar Phi^4 Theory"
+type: software
+authors:
+  - family-names: "Gyles"
+    given-names: "Aaron"
+    affiliation: "University of Edinburgh"
+version: "1.0.0"
+date-released: "2026-08-19"
+url: "https://github.com/AaronGyles/fourier-accelerated-hmc"
+repository-code: "https://github.com/AaronGyles/fourier-accelerated-hmc"
+abstract: "Python implementation of Hybrid Monte Carlo (HMC) and Fourier Accelerated HMC (FA-HMC) for simulating the interacting 2D real scalar phi^4 theory. Developed for MSc Theoretical Physics dissertation."
+keywords:
+  - physics
+  - lattice-field-theory
+  - hybrid-monte-carlo
+  - fourier-acceleration
+  - quantum-field-theory
+license: "MIT"
